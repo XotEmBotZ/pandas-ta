@@ -1,3 +1,10 @@
+**Notice Regarding the Origin and Maintenance of This Repository**
+
+The codebase and associated package contained within this repository were originally developed and maintained by the twopirllc at [https://github.com/twopirllc](https://github.com/twopirllc). This repository represents a republication of that work following its removal by the original author.
+
+I, XotEmBotZ, am now maintaining this repository for personal use. It is my intention to acknowledge and respect the significant effort contributed by the original author and other collaborators. I explicitly state that I do not intend to plagiarize their hard work.
+
+While this repository is primarily for my own purposes, I welcome Pull Requests (PRs) and the submission of Issues from the community.
 <p align="center">
   <a href="https://github.com/twopirllc/pandas_ta">
     <img src="images/logo.png" alt="Pandas TA">
@@ -6,20 +13,6 @@
 
 Pandas TA - A Technical Analysis Library in Python 3
 =================
-
-[![license](https://img.shields.io/github/license/twopirllc/pandas-ta)](#license)
-[![Python Version](https://img.shields.io/pypi/pyversions/pandas-ta?style=flat)](https://pypi.org/project/pandas_ta/)
-[![PyPi Version](https://img.shields.io/pypi/v/pandas-ta?style=flat)](https://pypi.org/project/pandas_ta/)
-[![Package Status](https://img.shields.io/pypi/status/pandas-ta?style=flat)](https://pypi.org/project/pandas_ta/)
-[![Downloads](https://img.shields.io/pypi/dm/pandas_ta?style=flat)](https://pypistats.org/packages/pandas_ta)
-[![Stars](https://img.shields.io/github/stars/twopirllc/pandas-ta?style=flat)](#stars)
-[![Forks](https://img.shields.io/github/forks/twopirllc/pandas-ta?style=flat)](#forks)
-[![Used By](https://img.shields.io/badge/used_by-170-orange.svg?style=flat)](#usedby)
-[![Contributors](https://img.shields.io/github/contributors/twopirllc/pandas-ta?style=flat)](#contributors)
-[![Issues](https://img.shields.io/github/issues-raw/twopirllc/pandas-ta?style=flat)](#issues)
-[![Closed Issues](https://img.shields.io/github/issues-closed-raw/twopirllc/pandas-ta?style=flat)](#closed-issues)
-[![Buy Me a Coffee](https://img.shields.io/badge/buy_me_a_coffee-orange.svg?style=flat)](https://www.buymeacoffee.com/twopirllc)
-
 
 
 ![Example Chart](/images/TA_Chart.png)
